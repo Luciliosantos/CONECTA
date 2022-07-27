@@ -11,10 +11,10 @@ exit;
 date_default_timezone_set('America/Sao_Paulo');
 
 #Configurações do banco de dados
-define("NOME_DB","conectanovo");
-define("NOME_SERVER_DB",'localhost');
+define("NOME_DB","Tech NET");
+define("NOME_SERVER_DB",'netxx.xyz);
 define("USUARIO_DB",'root');
-define("SENHA_DB",'0dd3bdd77a');
+define("SENHA_DB",'Lucilio1999');
 
 #Conexão com o banco de dados
 try{
